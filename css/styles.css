@@ -1,0 +1,54 @@
+html,body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    width: 100vw;
+    height: 100vh;
+}
+
+.salon-item {
+    cursor: pointer;    
+    background-color: black;
+    border: 0px none;
+}
+
+.salon-item:hover {
+    color: #fff;
+    background-color: #333333;
+}
+
+.wrapper {
+    display: flex;
+    align-items: stretch;
+}
+
+.header {
+    background-color: #333333;
+}
+
+.salon-name {
+    font-size: 18px;
+}
+
+#sidebar {
+    background-color: black;
+    color: #ccc;
+    min-width: 250px;
+    max-width: 250px;
+}
+
+/* Responsive design */
+@media screen and (max-width:450px) {
+    .wrapper {
+        width: 20%;
+    }
+
+    .salon-name {
+        font-size: 12px;
+    }
+
+}
