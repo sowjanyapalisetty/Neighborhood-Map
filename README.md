@@ -25,8 +25,8 @@ A single page application featuring a map of near by Beauty salons.
 Open index.html in a browser
 
 ## References
- https://bootstrapious.com/p/bootstrap-sidebar
- https://developer.foursquare.com/docs
- https://developers.google.com/maps/documentation/geocoding/intro
- http://knockoutjs.com/documentation/introduction.html 
- https://www.w3schools.com/jquery/default.asp
+* https://bootstrapious.com/p/bootstrap-sidebar
+* https://developer.foursquare.com/docs
+* https://developers.google.com/maps/documentation/geocoding/intro
+* http://knockoutjs.com/documentation/introduction.html 
+* https://www.w3schools.com/jquery/default.asp
